@@ -11,8 +11,7 @@ Jupiter Notebook Forecast-Model_Time-Series-Analysis-Temperature.ipynb
 Description
 --------
 - Load the data and EDA
-
-
+- Autoregressive model
 
 
 Used tech
