@@ -3,10 +3,16 @@ Using Berlin temperature data from 2015 to 2020 to make a short-term temperature
 
 
 
-
 Usage
 --------
 Jupiter Notebook Forecast-Model_Time-Series-Analysis-Temperature.ipynb
+
+
+Description
+--------
+- Load the data and EDA
+
+
 
 
 Used tech
@@ -15,3 +21,4 @@ Used tech
 - pandas
 - matplotlib
 - plotly
+- sklearn
